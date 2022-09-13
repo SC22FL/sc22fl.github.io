@@ -22,14 +22,6 @@ Our workshop will aim to gather stakeholders from academia, federal agencies, in
 
 ## Speakers
 
-### Georgia Tourassi
-*Division Director, Oak Ridge National Laboratory (ORNL)*
-
-<div class="bio-image"><img src="/images/g-tourassi.png"></div>
-
-TODO: Bio
-
-
 ### Jaideep Vaidya
 *Distinguished Professor, Rutgers University*
 
@@ -58,6 +50,8 @@ Healthcare and building an open ecosystem of collaborative partners.
 
 ### Ravi K Madduri
 *Research Scientist, Argonne National Laboratory*
+
+<div class="bio-image"><img src="/images/r-madduri.jpg"/></div>
 
 Ravi is a computer scientist in the Data Science and Learning division at Argonne National Laboratory and at the
 University of Chicago Consortium for Advanced Science and Engineering. He is an innovation fellow at the Polsky Center
@@ -97,9 +91,19 @@ degree in computer science from the Universidade Federal de Pernambuco, in Brazi
 
 
 ### Ryan Adamson
-*Group Leader, ORNL*
+*Group Leader, HPC Security and Information Engineering Group, ORNL*
 
-HPC Cybersecurity and Information Engineerings, ORNL
+<div class="bio-image"><img src="/images/r-adamson.jpg"/></div>
+
+Ryan leads the HPC Security and Information Engineering Group at the Oak Ridge Leadership Computing Facility (OLCF). His
+group is responsible for delivering highly-scalable and reliable security services and telemetry platforms to the
+high-performance computing resources and staff at the OLCF. His background in Linux systems administration at scale helps
+him understand the nuances of system complexity when developing solutions to security and operational mandates. Overall,
+Ryan enjoys tackling technical challenges and tries to find creative ways to safely and efficiently enable research when
+OLCF security policy, technical computational limitations, or other roadblocks chafe against the OLCF research mission. 
+He holds a masters degree in computer science from the University of Tennessee and previously was a certified GIAC
+Exploit Researcher And Advanced Penetration Tester (GXPN). He is currently pursuing a PhD in Engineering from Tennessee
+Tech University with a focus on the challenges overlapping the HPC and Security disciplines.
 
 ## Agenda
 Nov 14, 2022 (Dallas, TX local time)
@@ -114,5 +118,5 @@ Nov 14, 2022 (Dallas, TX local time)
 | 9:40AM - 10:05AM  | Ravi K Madduri   | Application of Privacy Preserving Federated Learning in Biomedical applications <br/> *Lessons learned from the PALISADE-X project*  |
 | 10:05AM - 10:30AM | Kenny Cha        | HPC at the FDA <br/> *Data reuse concepts for AI*                                                                                    |
 | 10:30AM - 10:55AM | Patricia Florssi | Federated Computations and the Digital Rights Movement                                                                               |
-| 10:55AM - 11:20AM | Ryan Adamson,    | TBD                                                                                                                                  |
+| 10:55AM - 11:20AM | Ryan Adamson     | Securing Federated Learning Capabilities Within an Exascale Environment                                                              |
 | 11:20AM - 12:00PM | Panel Discussion |                                                                                                                                      |
